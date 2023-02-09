@@ -1,3 +1,5 @@
+<h1> olá </h1>
+
 - 👋 Oi, me chamo Henrqiue, atualmente estou no 4°semestre de Análise e Desenvolvimento de Sistemas, amo tecnologia, e estou a proucura de um estágio na area de T.I. 
 
 - 👀 Eu me enteresso bastante em tudo que envolva tecnologia, é uma aréa que eu amo de coração.
